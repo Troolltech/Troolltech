@@ -1,4 +1,8 @@
-## Seja Bem vindo ao meu GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Jackson;Hello+My+name+is+Jackson;Seja+Bem+vindo+ao+meu+GitHub;welcome+to+my+github)](https://git.io/typing-svg)
+
+<br/>
 
 <div>
   
@@ -26,4 +30,6 @@
   <img align="center" alt="Jack-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jack-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
