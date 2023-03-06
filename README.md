@@ -32,17 +32,11 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-FFF?style=for-the-badge&logo=express&logoColor=000)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-1B142D?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-060C39?style=for-the-badge&logo=pandas&logoColor=FFF)
-![Pytorch](https://img.shields.io/badge/Pytorch-DE5D09?style=for-the-badge&logo=pytorch&logoColor=FFF)
 
 ### 🧑🏻‍💻 Tools & Platform
 
