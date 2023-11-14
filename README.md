@@ -4,8 +4,7 @@
 
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Troolltech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troolltech&layout=compact&langs_count=16&theme=radical"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Troolltech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
     <div> 
   <a href = "mailto:troolltech@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   
